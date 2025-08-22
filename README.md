@@ -19,12 +19,18 @@ O objetivo principal deste projeto é aplicar e documentar técnicas de testes d
 O projeto é organizado de forma modular para facilitar a navegação e a compreensão dos testes realizados.
 
 .
+
 ├── Documentacao/
+
 │   ├── CT_Cadastro/
+
 │   ├── CT_Login/
+
 │   ├── CT_Gerenciamento_Conteudo/
+
 │   └── ...
 ├── README.md
+
 └── .gitignore
 
 ---
